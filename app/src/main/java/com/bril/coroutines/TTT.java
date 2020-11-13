@@ -8,6 +8,4 @@ package com.bril.coroutines;
  * author： sunyang
  */
 class TTT {
-private int qq;
-private int aa;
 }
